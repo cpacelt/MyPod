@@ -10,6 +10,7 @@
 		D6D9EED12800926500952D7B /* MyPod.h in Headers */ = {isa = PBXBuildFile; fileRef = D6D9EED02800926500952D7B /* MyPod.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D6D9EED82800927600952D7B /* Greater.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D9EED72800927600952D7B /* Greater.swift */; };
 		D6D9EEDA2800949200952D7B /* MyPod.podspec in Resources */ = {isa = PBXBuildFile; fileRef = D6D9EED92800949200952D7B /* MyPod.podspec */; };
+		D6D9EEDC2800ACBD00952D7B /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D6D9EEDB2800ACBD00952D7B /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,6 +18,7 @@
 		D6D9EED02800926500952D7B /* MyPod.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyPod.h; sourceTree = "<group>"; };
 		D6D9EED72800927600952D7B /* Greater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greater.swift; sourceTree = "<group>"; };
 		D6D9EED92800949200952D7B /* MyPod.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = MyPod.podspec; sourceTree = "<group>"; };
+		D6D9EEDB2800ACBD00952D7B /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +35,7 @@
 		D6D9EEC32800926500952D7B = {
 			isa = PBXGroup;
 			children = (
+				D6D9EEDB2800ACBD00952D7B /* LICENSE */,
 				D6D9EED92800949200952D7B /* MyPod.podspec */,
 				D6D9EECF2800926500952D7B /* MyPod */,
 				D6D9EECE2800926500952D7B /* Products */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6D9EEDC2800ACBD00952D7B /* LICENSE in Resources */,
 				D6D9EEDA2800949200952D7B /* MyPod.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
