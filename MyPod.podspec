@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 spec.platform     = :ios
 spec.ios.deployment_target = '12.0'
-spec.name         = "FEat"
+spec.name         = "MyPod"
 spec.version      = "0.0.2"
 spec.summary      = "iOS application for selling products of different businesses"
 spec.requires_arc = true
